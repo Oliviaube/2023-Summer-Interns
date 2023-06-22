@@ -20,14 +20,14 @@ Consider four vehicles, the first two are electric vehicles ([EV](https://readys
  We want to understand how much kinetic energy, each vehicle has at different speeds:
 1. 15 mph - school zones
 2. 45 mph - in town roads with no pedestrian traffic
-3. 65 mph - highways
+3. 65 mph --> 21145.19 - highways
 
 Please print a table showing the four vehicles (rows) and their kinetic energy (columns) at each speed above.
 
 Kinetic energy of each vehicle
 ------------------------------
-         Vehicle Type   School Zone   In town roads w/ no pedestrian traffic      Highways
-Kia EV6                1/2 * 9925.0 * 33.6^2 
-Ford F-150 Lightning   1/2 * 13260.6 * 33.6^2
-Fiat 500 Pop X AWD     1/2 * 7286.2 * 33.6^2
-Dodge Charger GT RWD   1/2 * 8979.3 * 33.6^2
+         Vehicle Type     School Zone   In town roads w/ no pedestrian traffic      Highways
+Kia EV6                     5602464                 50292202.67                   104933023.18
+Ford F-150 Lightning      7485343.48               67245108.7862                   140198977.05
+Fiat 500 Pop X AWD        4112914.18                36920810.79                  77034054.76
+Dodge Charger GT RWD      5068635.26                4550012.50                    94934518.40
